@@ -4,6 +4,20 @@ Welcome to the Voila repository! This repository contains all the necessary docu
 
 Voila is an open source programming language that makes it easy to build simple.
 
+## Voila - Language Features:
+
+* Visualize Compiler `Lexer`.
+
+* Visualize Compiler `Symbol Table`.
+
+* Visualize Compiler `Parser`.
+
+* Visualize Compiler `Parse Tree`.
+
+* Visualize Compiler `Parse Table`.
+
+
+
 ## Voila - Language Definition: 
 
 * `Language Delimiter` will be defined as “;” as end of line.
