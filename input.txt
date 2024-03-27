@@ -1,0 +1,26 @@
+int x = 10;
+int y = 20;
+int z = 30+20;
+int m = 10/20;
+int o = x;
+print(x);
+
+if (x >= 3) { 
+    print(x); }
+
+if (x <= 3) {
+     print(x); } 
+     
+else { 
+    print(z); }
+    
+while (x == 3){ 
+    print(y); }
+
+while (x != 3){ 
+    print(y); }
+
+str ebrahim = "EBRAHIM";
+print(z);
+print("Ebrahim");
+print(ebrahim);
